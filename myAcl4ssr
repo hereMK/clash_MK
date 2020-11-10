@@ -1,6 +1,7 @@
 [custom]
 ;不要随意改变关键字，否则会导致出错
 ;acl4SSR规则-在线版
+; https://github.com/hereMK/ACL4SSR/blob/master/Clash/config/ACL4SSR_Online_NoAuto.ini
 
 ;去广告：支持
 ;自动测速：不支持
