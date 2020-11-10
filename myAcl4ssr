@@ -39,7 +39,7 @@ custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=🐟 自定义补充`select`[]🚀 节点选择`[]🎯 全球直连`.*
-custom_proxy_group=🎯 自定义补充`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎯 大陆限定`select`[]🚀 节点选择`[]🎯 全球直连`.*
 
 enable_rule_generator=true
 overwrite_original_rules=true
