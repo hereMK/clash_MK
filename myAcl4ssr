@@ -10,6 +10,11 @@
 ;增强中国IP段：不支持
 ;增强国外GFW：不支持
 
+
+surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/Genuine_IP
+surge_ruleset=🎯 CN_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/CN_MK
+
+
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 surge_ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
@@ -27,8 +32,7 @@ surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SS
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 surge_ruleset=🎯 全球直连,[]GEOIP,CN
 surge_ruleset=🐟 漏网之鱼,[]FINAL
-surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/Genuine_IP
-surge_ruleset=🎯 CN_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/CN_MK
+
 
 
 custom_proxy_group=🚀 节点选择`select`[]DIRECT`.*
