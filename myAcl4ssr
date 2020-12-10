@@ -48,7 +48,7 @@ custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=🎯 CN_MK`select`[]🎯 全球直连`[]🚀 节点选择`.*
-custom_proxy_group=🎯 HK_MK`select`[]🚀 节点选择`.[]🎯 全球直连`*
+custom_proxy_group=🎯 HK_MK`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=🐟 Genuine_IP`select`[]🚀 节点选择`[]🎯 全球直连`.*
 
 
