@@ -12,13 +12,6 @@ log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
-hosts:
-  mtalk.google.com: 108.177.125.188
-  services.googleapis.cn: 74.125.203.94
-  raw.githubusercontent.com: 151.101.128.133
-  "*.googlevideo.com": 74.125.164.167
-  www.google.com: 142.250.199.68
-  www.youtube.com: 216.58.200.78
 dns:
    enable: true   
    ipv6: false
@@ -28,9 +21,6 @@ dns:
     - 1.0.0.1
    enhanced-mode: fake-ip   
    fake-ip-range: 198.10.0.1/16  
-   fake-ip-filter: 
-      - '*.lan'
-      - localhost.ptlogin2.qq.com
    nameserver:
       - 223.5.5.5   
       - 223.6.6.6
@@ -44,13 +34,4 @@ dns:
        - 240.0.0.0/4
        - 0.0.0.0/32
        - 127.0.0.1/32
-     domain:
-       - +.google.com
-       - +.facebook.com
-       - +.twitter.com
-       - +.youtube.com
-       - +.xn--ngstr-lra8j.com
-       - +.google.cn
-       - +.googleapis.cn
-       - +.googleapis.com
-       - +.gvt1.com
+
