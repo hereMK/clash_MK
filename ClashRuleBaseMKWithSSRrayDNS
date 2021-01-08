@@ -38,19 +38,19 @@ dns:
       - 8.8.8.8  
       - 1.1.1.1  
 
-  fallback-filter:
-    geoip: true
-    ipcidr:
-      - 240.0.0.0/4
-      - 0.0.0.0/32
-      - 127.0.0.1/32
-    domain:
-      - +.google.com
-      - +.facebook.com
-      - +.twitter.com
-      - +.youtube.com
-      - +.xn--ngstr-lra8j.com
-      - +.google.cn
-      - +.googleapis.cn
-      - +.googleapis.com
-      - +.gvt1.com
+   fallback-filter:
+     geoip: true
+     ipcidr:
+       - 240.0.0.0/4
+       - 0.0.0.0/32
+       - 127.0.0.1/32
+     domain:
+       - +.google.com
+       - +.facebook.com
+       - +.twitter.com
+       - +.youtube.com
+       - +.xn--ngstr-lra8j.com
+       - +.google.cn
+       - +.googleapis.cn
+       - +.googleapis.com
+       - +.gvt1.com
