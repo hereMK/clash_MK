@@ -26,7 +26,6 @@ dns:
       - 223.6.6.6
    fallback:
       - 8.8.8.8  
-      - 1.1.1.1  
 
    fallback-filter:
      geoip: true
