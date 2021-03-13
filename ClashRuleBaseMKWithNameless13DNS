@@ -6,19 +6,14 @@ allow-lan: false
 mode: Rule
 log-level: info
 ipv6: false
-external-controller: 127.0.0.1:9090
+external-controller: 0.0.0.0:9090
 clash-for-android:
   append-system-dns: false
 hosts:
-  mtalk.google.com: 108.177.125.188
   services.googleapis.cn: 74.125.203.94
-  raw.githubusercontent.com: 151.101.128.133
-  "*.googlevideo.com": 74.125.164.167
-  www.google.com: 142.250.199.68
-  www.youtube.com: 216.58.200.78
 dns:
   enable: true
-  listen: 127.0.0.1:53
+  listen: 127.0.0.1:8853
   default-nameserver:
     - 223.5.5.5
     - 1.0.0.1
@@ -103,8 +98,8 @@ dns:
     - https://dns.pub/dns-query
   fallback:
     - https://1.0.0.1/dns-query
-    - https://public.dns.iij.jp/dns-query
-    - https://dns.twnic.tw/dns-query
+    - https://1.1.1.1/dns-query
+    - https://dns.rubyfish.cn/dns-query
   fallback-filter:
     geoip: true
     ipcidr:
