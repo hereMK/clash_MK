@@ -9,8 +9,6 @@ ipv6: false
 external-controller: 0.0.0.0:9090
 clash-for-android:
   append-system-dns: false
-hosts:
-  services.googleapis.cn: 74.125.203.94
 dns:
   enable: true
   listen: 127.0.0.1:8853
@@ -19,7 +17,6 @@ dns:
     - 1.0.0.1
   ipv6: false
   enhanced-mode: fake-ip
-  fake-ip-range: 198.10.0.1/16
   fake-ip-filter:
     - "*.lan"
     - stun.*.*.*
