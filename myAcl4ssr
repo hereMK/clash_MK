@@ -16,6 +16,7 @@
 surge_ruleset=🎯 CN_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/CN_MK
 surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/Genuine_IP
 surge_ruleset=🎯 TW_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/TW_MK
+surge_ruleset=📢 Google_Scholar,https://raw.githubusercontent.com/hereMK/clash_MK/main/Google_Scholar
 
 
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -53,6 +54,7 @@ custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`[]🎯 全球直
 custom_proxy_group=Ⓜ️ 微软服务`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=🍎 苹果服务`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=📢 谷歌FCM`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=📢 Google_Scholar`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
