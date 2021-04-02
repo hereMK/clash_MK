@@ -15,8 +15,8 @@
 
 surge_ruleset=📢 Google_Scholar,https://raw.githubusercontent.com/hereMK/clash_MK/main/Google_Scholar
 surge_ruleset=🎯 CN_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/CN_MK
-surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/Genuine_IP
 surge_ruleset=🎯 TW_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/TW_MK
+surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/Genuine_IP
 
 
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
