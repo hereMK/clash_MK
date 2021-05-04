@@ -16,6 +16,10 @@
 surge_ruleset=📢 Google_Scholar,https://raw.githubusercontent.com/hereMK/clash_MK/main/Google_Scholar
 surge_ruleset=🎯 CN_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/CN_MK
 surge_ruleset=🎯 TW_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/TW_MK
+surge_ruleset=🎯 HK_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/HK_MK
+surge_ruleset=🎯 SG_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/SG_MK
+;surge_ruleset=🎯 JP_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/JP_MK
+surge_ruleset=🎯 US_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/US_MK
 surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/Genuine_IP
 
 
@@ -25,12 +29,8 @@ surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SS
 surge_ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 surge_ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 surge_ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
-surge_ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
-surge_ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
-surge_ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
-surge_ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
+surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 surge_ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
-surge_ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
 surge_ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
 surge_ruleset=📲 电报信息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 surge_ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
@@ -39,10 +39,6 @@ surge_ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SS
 surge_ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
-surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
-surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
-surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
 surge_ruleset=🎯 全球直连,[]GEOIP,CN
 surge_ruleset=🐟 漏网之鱼,[]FINAL
 
@@ -62,8 +58,11 @@ custom_proxy_group=🍃 应用净化`select`[]DIRECT`[]REJECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=🎯 CN_MK`select`[]🎯 全球直连`[]🚀 节点选择`.*
 custom_proxy_group=🎯 TW_MK`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎯 HK_MK`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎯 SG_MK`select`[]🚀 节点选择`[]🎯 全球直连`.*
+;custom_proxy_group=🎯 JP_MK`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎯 US_MK`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=🐟 Genuine_IP`select`[]🚀 节点选择`[]🎯 全球直连`.*
-
 
 enable_rule_generator=true
 overwrite_original_rules=true
