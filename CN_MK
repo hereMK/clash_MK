@@ -4,10 +4,13 @@ DOMAIN-SUFFIX,wemp.app
 DOMAIN-SUFFIX,hikew.com
 DOMAIN-SUFFIX,wzqtsg.com
 DOMAIN-KEYWORD,imdb
-DOMAIN,emby-sg.plusmedia.site
-DOMAIN-KEYWORD,emby-sg.plusmedia.site
-DOMAIN-SUFFIX,emby-sg.plusmedia.site
-DOMAIN-SUFFIX,sg.plusmedia.site
+
+
+
+# DOMAIN,emby-sg.plusmedia.site
+# DOMAIN-KEYWORD,emby-sg.plusmedia.site
+# DOMAIN-SUFFIX,emby-sg.plusmedia.site
+# DOMAIN-SUFFIX,sg.plusmedia.site
 
 
 
