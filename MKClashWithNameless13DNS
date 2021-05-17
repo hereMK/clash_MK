@@ -18,7 +18,7 @@ surge_ruleset=🎯 TW_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/
 surge_ruleset=🎯 HK_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/HK_MK
 surge_ruleset=🎯 SG_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/SG_MK
 ;surge_ruleset=🎯 JP_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/JP_MK
-surge_ruleset=🎯 US_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/US_MK
+;surge_ruleset=🎯 US_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/US_MK
 surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/Genuine_IP
 
 
@@ -43,7 +43,7 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 
 
 
-custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`.*
+custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]🎯 HK_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`.*
 custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]DIRECT`.*
 custom_proxy_group=📲 电报信息`select`[]🚀 节点选择`[]DIRECT`.*
 custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`[]DIRECT`.*
