@@ -5,5 +5,5 @@ DOMAIN-SUFFIX,scholar.google.com.tw
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,goodreads.com
-DOMAIN-SUFFIX,emby.maying.club
+DOMAIN,emby.maying.club
 DOMAIN-KEYWORD,imdb
