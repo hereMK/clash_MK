@@ -120,3 +120,12 @@ dns:
       - +.gvt1.com
 
 
+tun:
+  enable: true
+  stack: gvisor
+  dns-hijack:
+    - 198.18.0.2:53
+  macOS-auto-route: true
+  macOS-auto-detect-interface: true # 自动检测出口网卡
+  
+  
