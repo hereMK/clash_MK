@@ -14,8 +14,8 @@
 
 ;surge_ruleset=📢 Google_Scholar,https://raw.githubusercontent.com/hereMK/clash_MK/main/Google_Scholar
 surge_ruleset=🎯 CN_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/CN_MK
-surge_ruleset=🎯 HK_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/HK_MK
 surge_ruleset=🎯 TW_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/TW_MK
+surge_ruleset=🎯 HK_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/HK_MK
 surge_ruleset=🎯 SG_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/SG_MK
 surge_ruleset=🎯 JP_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/JP_MK
 surge_ruleset=🎯 US_MK,https://raw.githubusercontent.com/hereMK/clash_MK/main/US_MK
