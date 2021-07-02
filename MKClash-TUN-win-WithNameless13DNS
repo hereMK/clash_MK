@@ -77,4 +77,4 @@ overwrite_original_rules=true
 
 
 
-clash_rule_base=https://raw.githubusercontent.com/hereMK/clash_MK/main/Clash-TUN-win-RuleBaseMKWithNameless13DNS
+clash_rule_base=https://raw.githubusercontent.com/hereMK/clash_MK/main/ClashRuleBaseMK-WinTun-Nameless13DNS
