@@ -73,4 +73,4 @@ custom_proxy_group=🐟 Genuine_IP`select`[]🚀 节点选择`[]DIRECT`[]🎯 US
 enable_rule_generator=true
 overwrite_original_rules=true
 
-clash_rule_base=https://raw.githubusercontent.com/hereMK/clash_MK/main/ClashRuleBaseMK-TUN-win-only
+clash_rule_base=https://raw.githubusercontent.com/hereMK/clash_MK/main/ClashRuleBaseMK-WinTunOnly-NoDNS
