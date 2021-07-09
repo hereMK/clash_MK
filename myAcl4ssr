@@ -44,7 +44,7 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 
 
 
-custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`[]♻️ 自动选择`[]🔯 故障转移`.*
+custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]🎯 US_reg`[]🎯 SG_reg`[]🎯 HK_reg`[]🎯 TW_reg`[]🎯 JP_reg`[]🇺🇲 美国节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`[]♻️ 自动选择`[]🔯 故障转移`.*
 custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`.*
 custom_proxy_group=📲 电报信息`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`.*
 custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`.*
