@@ -44,7 +44,7 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 
 
 
-custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]US_reg`[]SG_reg`[]HK_reg`[]TW_reg`[]JP_reg`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`[]🇺🇲 美国节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]♻️ 自动选择`[]🔯 故障转移`.*
+custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]US_reg`[]SG_reg`[]HK_reg`[]TW_reg`[]JP_reg`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`[]🇺🇲 美国节点-Auto`[]🇭🇰 香港节点-Auto`[]🇨🇳 台湾节点-Auto`[]🇸🇬 狮城节点-Auto`[]🇯🇵 日本节点-Auto`[]🇰🇷 韩国节点-Auto`[]♻️ 自动选择`[]🔯 故障转移`.*
 custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`.*
 custom_proxy_group=📲 电报信息`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`.*
 custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK`[]🎯 SG_MK`[]🎯 HK_MK`[]🎯 TW_MK`[]🎯 JP_MK`.*
@@ -82,7 +82,7 @@ custom_proxy_group=JP_reg`select`(日本|日|川日|东京|大阪|泉日|埼玉|
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🔯 故障转移`fallback`.*`http://www.gstatic.com/generate_204`180
 
-custom_proxy_group=🇭🇰 香港节点-Auto`url-test`(港|HK|Hong Kong)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇭🇰 香港节点`url-test`(港|HK|Hong Kong)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇯🇵 日本节点-Auto`url-test`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇺🇲 美国节点-Auto`url-test`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)`http://www.gstatic.com/generate_204`300,,150
 custom_proxy_group=🇨🇳 台湾节点-Auto`url-test`(台|新北|彰化|TW|Taiwan)`http://www.gstatic.com/generate_204`300,,50
