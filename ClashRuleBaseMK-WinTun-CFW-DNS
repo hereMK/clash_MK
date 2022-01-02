@@ -1,0 +1,36 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+allow-lan: false
+mode: Rule
+log-level: info
+ipv6: false
+hosts:
+  services.googleapis.cn: 142.250.196.131
+  www.google.cn: 142.250.196.131
+  occ-0-2774-64.1.nflxso.net: 23.246.54.152
+external-controller: 0.0.0.0:9090
+clash-for-android:
+  append-system-dns: false
+profile:
+  tracing: true
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  nameserver:
+    - 114.114.114.114
+    - 223.5.5.5
+    - 8.8.8.8
+  fallback: []
+  fake-ip-filter:
+    - dns.msftncsi.com
+    - www.msftncsi.com
+    - www.msftconnecttest.com
+tun:
+  enable: true
+  stack: gvisor 
+  auto-route: true
+  auto-detect-interface: true 
+  dns-hijack:
+   - 198.18.0.2:53
