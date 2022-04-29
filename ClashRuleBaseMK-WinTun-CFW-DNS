@@ -29,8 +29,8 @@ dns:
     - www.msftconnecttest.com
 tun:
   enable: true
-  stack: gvisor 
+  stack: gvisor
+  auto-detect-interface: true
   auto-route: true
-  auto-detect-interface: true 
   dns-hijack:
-   - 198.18.0.2:53
+    - 198.18.0.2:53
