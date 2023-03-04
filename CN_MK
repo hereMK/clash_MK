@@ -9,8 +9,7 @@ DOMAIN-SUFFIX,abskoop.com
 DOMAIN-SUFFIX,ahhhhfs.com
 IP-CIDR,50.129.225.250/32,no-resolve
 IP-CIDR,101.230.121.120/32,no-resolve
-
-
+DOMAIN-KEYWORD,zimuku
 
 # DOMAIN,emby-sg.plusmedia.site
 # DOMAIN-KEYWORD,emby-sg.plusmedia.site
