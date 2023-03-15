@@ -5,7 +5,7 @@ surge_ruleset=🎯 HK_MK_List,https://raw.githubusercontent.com/hereMK/clash_MK/
 surge_ruleset=🎯 SG_MK_List,https://raw.githubusercontent.com/hereMK/clash_MK/main/ProxyList/SG_MK_list.conf
 surge_ruleset=🎯 JP_MK_List,https://raw.githubusercontent.com/hereMK/clash_MK/main/ProxyList/JP_MK_list.conf
 surge_ruleset=🎯 US_MK_List,https://raw.githubusercontent.com/hereMK/clash_MK/main/ProxyList/US_MK_list.conf
-surge_ruleset=🐟 Genuine_IP,https://raw.githubusercontent.com/hereMK/clash_MK/main/ProxyList/proxyList.conf
+surge_ruleset=🐟 proxyList,https://raw.githubusercontent.com/hereMK/clash_MK/main/ProxyList/proxyList.conf
 
 
 
@@ -49,7 +49,7 @@ custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK_List`[]🎯 SG_MK_List`[]🎯 HK_MK_List`[]🎯 TW_MK_List`[]🎯 JP_MK_List`.*
-custom_proxy_group=🐟 Genuine_IP`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK_List`[]🎯 SG_MK_List`[]🎯 HK_MK_List`[]🎯 TW_MK_List`[]🎯 JP_MK_List`.*
+custom_proxy_group=🐟 proxyList`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK_List`[]🎯 SG_MK_List`[]🎯 HK_MK_List`[]🎯 TW_MK_List`[]🎯 JP_MK_List`.*
 
 
 custom_proxy_group=🎯 CN_MK_List`select`[]DIRECT`[]🚀 节点选择
@@ -57,7 +57,7 @@ custom_proxy_group=🎯 TW_MK_List`select`[]TW`[]DIRECT
 custom_proxy_group=🎯 HK_MK_List`select`[]HK`[]DIRECT
 custom_proxy_group=🎯 SG_MK_List`select`[]SG`[]DIRECT
 custom_proxy_group=🎯 US_MK_List`select`[]US`[]DIRECT
-custom_proxy_group=🎯 JP_MK`select`[]JP`[]DIRECT
+custom_proxy_group=🎯 JP_MK_List`select`[]JP`[]DIRECT
 
 
 
