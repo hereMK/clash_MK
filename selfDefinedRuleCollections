@@ -33,9 +33,9 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 
 
 custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]US`[]SG`[]HK`[]TW`[]JP`.*
+custom_proxy_group=US`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|纽约|US|United.*?States)`[]DIRECT
 custom_proxy_group=SG`select`(新|狮城|SG|Singa|Sing|Sin)`[]DIRECT
 custom_proxy_group=HK`select`(港|HK|HONG|Hong|HGC)`[]DIRECT
-custom_proxy_group=US`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|纽约|US|United.*?States)`[]DIRECT
 custom_proxy_group=TW`select`(台|台北|新北|彰化|TW|Tai)`[]DIRECT
 custom_proxy_group=JP`select`(日本|日|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Jap|京日|杭日|青日)`[]DIRECT
 custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]DIRECT`[]🎯 US_MK_List`[]🎯 SG_MK_List`[]🎯 HK_MK_List`[]🎯 TW_MK_List`[]🎯 JP_MK_List`.*
